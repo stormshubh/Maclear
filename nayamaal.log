@@ -1,0 +1,19 @@
+2023-11-02 22:14:56,399 - my_logger - DEBUG - This is a debug message
+2023-11-02 22:15:06,785 - root - INFO - this is the start of my firt[1, 2, 3, 4, [5, 6, 7], 'Shubh', 'Sarkar']
+2023-11-02 22:15:06,786 - root - INFO - this is the value of I'm logging 1
+2023-11-02 22:15:06,786 - root - INFO - this is the start of my firt[1, 2, 3, 4, [5, 6, 7], 'Shubh', 'Sarkar']
+2023-11-02 22:15:06,786 - root - INFO - this is the value of I'm logging 2
+2023-11-02 22:15:06,786 - root - INFO - this is the start of my firt[1, 2, 3, 4, [5, 6, 7], 'Shubh', 'Sarkar']
+2023-11-02 22:15:06,787 - root - INFO - this is the value of I'm logging 3
+2023-11-02 22:15:06,787 - root - INFO - this is the start of my firt[1, 2, 3, 4, [5, 6, 7], 'Shubh', 'Sarkar']
+2023-11-02 22:15:06,790 - root - INFO - this is the value of I'm logging 4
+2023-11-02 22:15:06,790 - root - INFO - this is the start of my firt[1, 2, 3, 4, [5, 6, 7], 'Shubh', 'Sarkar']
+2023-11-02 22:15:06,790 - root - INFO - this is the value of I'm logging [5, 6, 7]
+2023-11-02 22:15:06,790 - root - INFO - this is my log for checking inside the nested list where iterating value j is : 5 and the nested list i is : [5, 6, 7]
+2023-11-02 22:15:06,790 - root - INFO - this is my log for checking inside the nested list where iterating value j is : 6 and the nested list i is : [5, 6, 7]
+2023-11-02 22:15:06,790 - root - INFO - this is my log for checking inside the nested list where iterating value j is : 7 and the nested list i is : [5, 6, 7]
+2023-11-02 22:15:06,791 - root - INFO - this is the start of my firt[1, 2, 3, 4, [5, 6, 7], 'Shubh', 'Sarkar']
+2023-11-02 22:15:06,791 - root - INFO - this is the value of I'm logging Shubh
+2023-11-02 22:15:06,791 - root - INFO - this is the start of my firt[1, 2, 3, 4, [5, 6, 7], 'Shubh', 'Sarkar']
+2023-11-02 22:15:06,791 - root - INFO - this is the value of I'm logging Sarkar
+2023-11-02 22:15:06,792 - root - INFO - this is the end of coding with all int [1, 2, 3, 4, 5, 6, 7], with all str ['Shubh', 'Sarkar']

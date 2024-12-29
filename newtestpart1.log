@@ -1,0 +1,7 @@
+2023-10-22 03:35:03,873 parso.cache DEBUG  pickle loaded: C:\Anaconda\lib\logging\__init__.py
+2023-10-22 03:35:04,062 parso.python.diff DEBUG  diff parser start
+2023-10-22 03:35:04,062 parso.python.diff DEBUG  line_lengths old: 1; new: 1
+2023-10-22 03:35:04,062 parso.python.diff DEBUG  -> code[replace] old[1:1] new[1:1]
+2023-10-22 03:35:04,062 parso.python.diff DEBUG  parse_part from 1 to 1 (to 0 in part parser)
+2023-10-22 03:35:04,062 parso.python.diff DEBUG  diff parser end
+2023-10-22 03:35:20,763 root INFO  this is my latest info

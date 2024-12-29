@@ -1,0 +1,33 @@
+2023-10-25 19:07:59,963 - my_logger - DEBUG - This is a debug message
+2023-10-25 19:08:49,385 - parso.cache - DEBUG - pickle loaded: C:\Anaconda\lib\logging\__init__.py
+2023-10-25 19:08:49,732 - parso.cache - DEBUG - pickle loaded: C:\Anaconda\lib\site-packages\jedi\third_party\typeshed\stdlib\3\builtins.pyi
+2023-10-25 19:08:51,825 - parso.python.diff - DEBUG - diff parser start
+2023-10-25 19:08:51,828 - parso.python.diff - DEBUG - line_lengths old: 1; new: 1
+2023-10-25 19:08:51,828 - parso.python.diff - DEBUG - -> code[replace] old[1:1] new[1:1]
+2023-10-25 19:08:51,828 - parso.python.diff - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+2023-10-25 19:08:51,832 - parso.python.diff - DEBUG - diff parser end
+2023-10-25 19:08:55,373 - parso.python.diff - DEBUG - diff parser start
+2023-10-25 19:08:55,373 - parso.python.diff - DEBUG - line_lengths old: 1; new: 1
+2023-10-25 19:08:55,373 - parso.python.diff - DEBUG - -> code[replace] old[1:1] new[1:1]
+2023-10-25 19:08:55,373 - parso.python.diff - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+2023-10-25 19:08:55,379 - parso.python.diff - DEBUG - diff parser end
+2023-10-25 19:13:16,894 - my_logger - DEBUG - This is a debug message
+2023-10-25 19:13:16,894 - my_logger - INFO - This is an info message
+2023-10-25 19:13:16,894 - my_logger - WARNING - This is a warning message
+2023-10-25 19:13:16,894 - my_logger - ERROR - This is an error message
+2023-10-25 19:13:16,894 - my_logger - CRITICAL - This is a critical message
+2023-11-02 22:01:57,269 - my_logger - DEBUG - This is a debug message
+2023-11-02 22:02:01,249 - root - INFO - this is the start of my firt[1, 2, 3, 4, [5, 6, 7], 'Shubh', 'Sarkar']
+2023-11-02 22:02:01,249 - root - INFO - this is the value of I'm logging 1
+2023-11-02 22:02:01,249 - root - INFO - this is the start of my firt[1, 2, 3, 4, [5, 6, 7], 'Shubh', 'Sarkar']
+2023-11-02 22:02:01,249 - root - INFO - this is the value of I'm logging 2
+2023-11-02 22:02:01,250 - root - INFO - this is the start of my firt[1, 2, 3, 4, [5, 6, 7], 'Shubh', 'Sarkar']
+2023-11-02 22:02:01,250 - root - INFO - this is the value of I'm logging 3
+2023-11-02 22:02:01,250 - root - INFO - this is the start of my firt[1, 2, 3, 4, [5, 6, 7], 'Shubh', 'Sarkar']
+2023-11-02 22:02:01,250 - root - INFO - this is the value of I'm logging 4
+2023-11-02 22:02:01,250 - root - INFO - this is the start of my firt[1, 2, 3, 4, [5, 6, 7], 'Shubh', 'Sarkar']
+2023-11-02 22:02:01,250 - root - INFO - this is the value of I'm logging [5, 6, 7]
+2023-11-02 22:02:01,251 - root - INFO - this is the start of my firt[1, 2, 3, 4, [5, 6, 7], 'Shubh', 'Sarkar']
+2023-11-02 22:02:01,251 - root - INFO - this is the value of I'm logging Shubh
+2023-11-02 22:02:01,251 - root - INFO - this is the start of my firt[1, 2, 3, 4, [5, 6, 7], 'Shubh', 'Sarkar']
+2023-11-02 22:02:01,251 - root - INFO - this is the value of I'm logging Sarkar
